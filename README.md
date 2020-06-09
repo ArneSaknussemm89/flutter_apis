@@ -1,6 +1,7 @@
 # flutterapis
 
-A Flutter Application showing how to work with APIs
+A Flutter Application showing how I like to work with APIs in Flutter.
+Follows the basic principles of the BLoC architecture; services, models, etc etc.
 
 ## Getting Started
 
